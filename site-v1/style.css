@@ -1,0 +1,31 @@
+html {
+  background-color:black;
+}
+
+.center {
+  color: whitesmoke;
+  text-align: center;
+  font-size: large;
+  font-family: Arial;
+  transform: translateY(475%);
+}
+
+.centertitle {
+  color: whitesmoke;
+  text-align: center;
+  font-size: large;
+  font-family: Arial;
+  transform: translateY(750%);
+}
+
+.fa-youtube {
+  margin-left: auto;
+}
+
+.fa-discord {
+  margin-left: 0px;
+}
+
+.fa-github {
+  margin-left: 10px;
+}
